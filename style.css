@@ -1,0 +1,39 @@
+body {
+  font-size: 15pt;
+  background:linear-gradient(#D8E1FA,#D8FAF2);
+  height: 100vh;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#inp {
+  width: 80%;
+  height: 50px;
+  border: 2px solid;
+  border-radius: 6px;
+  margin-top: 19px;
+  outline-color: #2fffff;
+
+}
+
+#btn {
+  width:60px;
+  height: 50px;
+  border: 2px solid;
+  border-radius: 8px;
+  margin-top: 19px;
+  background:black;
+  color: white;
+  outline-color: 2ffffff;
+}
+#btn :hover{
+  background:black;
+  color: white;
+ 
+}
+div{
+  background: ghostwhite; 
+}
